@@ -1,0 +1,79 @@
+E:\舵机项目\软件\SteerGearApp\SteerGearApp\bin\Debug\SteerGearApp.exe.config
+E:\舵机项目\软件\SteerGearApp\SteerGearApp\bin\Debug\SteerGearApp.exe
+E:\舵机项目\软件\SteerGearApp\SteerGearApp\bin\Debug\SteerGearApp.pdb
+E:\舵机项目\软件\SteerGearApp\SteerGearApp\obj\Debug\SteerGearApp.csproj.AssemblyReference.cache
+E:\舵机项目\软件\SteerGearApp\SteerGearApp\obj\Debug\SteerGearApp.csproj.SuggestedBindingRedirects.cache
+E:\舵机项目\软件\SteerGearApp\SteerGearApp\obj\Debug\SteerGearApp.Mian.Views.MianView.resources
+E:\舵机项目\软件\SteerGearApp\SteerGearApp\obj\Debug\SteerGearApp.Properties.Resources.resources
+E:\舵机项目\软件\SteerGearApp\SteerGearApp\obj\Debug\SteerGearApp.csproj.GenerateResource.cache
+E:\舵机项目\软件\SteerGearApp\SteerGearApp\obj\Debug\SteerGearApp.csproj.CoreCompileInputs.cache
+E:\舵机项目\软件\SteerGearApp\SteerGearApp\obj\Debug\SteerGearApp.exe
+E:\舵机项目\软件\SteerGearApp\SteerGearApp\obj\Debug\SteerGearApp.pdb
+E:\舵机项目\软件\SteerGearApp\SteerGearApp\obj\Debug\SteerGearApp.Mian.Views.PortSettingFrm.resources
+E:\舵机项目\软件\SteerGearApp\SteerGearApp\bin\Debug\SunnyUI.Common.dll
+E:\舵机项目\软件\SteerGearApp\SteerGearApp\bin\Debug\SunnyUI.dll
+E:\舵机项目\软件\SteerGearApp\SteerGearApp\bin\Debug\SunnyUI.pdb
+E:\舵机项目\软件\SteerGearApp\SteerGearApp\obj\Debug\SteerGearApp.csproj.CopyComplete
+E:\舵机项目\软件\SteerGearApp(20220412位置控制修改)\SteerGearApp\bin\Debug\SteerGearApp.exe.config
+E:\舵机项目\软件\SteerGearApp(20220412位置控制修改)\SteerGearApp\bin\Debug\SteerGearApp.exe
+E:\舵机项目\软件\SteerGearApp(20220412位置控制修改)\SteerGearApp\bin\Debug\SteerGearApp.pdb
+E:\舵机项目\软件\SteerGearApp(20220412位置控制修改)\SteerGearApp\bin\Debug\SunnyUI.Common.dll
+E:\舵机项目\软件\SteerGearApp(20220412位置控制修改)\SteerGearApp\bin\Debug\SunnyUI.dll
+E:\舵机项目\软件\SteerGearApp(20220412位置控制修改)\SteerGearApp\bin\Debug\SunnyUI.pdb
+E:\舵机项目\软件\SteerGearApp(20220412位置控制修改)\SteerGearApp\obj\Debug\SteerGearApp.csproj.AssemblyReference.cache
+E:\舵机项目\软件\SteerGearApp(20220412位置控制修改)\SteerGearApp\obj\Debug\SteerGearApp.csproj.SuggestedBindingRedirects.cache
+E:\舵机项目\软件\SteerGearApp(20220412位置控制修改)\SteerGearApp\obj\Debug\SteerGearApp.Mian.Views.MianView.resources
+E:\舵机项目\软件\SteerGearApp(20220412位置控制修改)\SteerGearApp\obj\Debug\SteerGearApp.Mian.Views.PortSettingFrm.resources
+E:\舵机项目\软件\SteerGearApp(20220412位置控制修改)\SteerGearApp\obj\Debug\SteerGearApp.Properties.Resources.resources
+E:\舵机项目\软件\SteerGearApp(20220412位置控制修改)\SteerGearApp\obj\Debug\SteerGearApp.csproj.GenerateResource.cache
+E:\舵机项目\软件\SteerGearApp(20220412位置控制修改)\SteerGearApp\obj\Debug\SteerGearApp.csproj.CoreCompileInputs.cache
+E:\舵机项目\软件\SteerGearApp(20220412位置控制修改)\SteerGearApp\obj\Debug\SteerGearApp.csproj.CopyComplete
+E:\舵机项目\软件\SteerGearApp(20220412位置控制修改)\SteerGearApp\obj\Debug\SteerGearApp.exe
+E:\舵机项目\软件\SteerGearApp(20220412位置控制修改)\SteerGearApp\obj\Debug\SteerGearApp.pdb
+E:\舵机项目\软件\SteerGearApp(20220413位置控制修改)\SteerGearApp\bin\Debug\SteerGearApp.exe.config
+E:\舵机项目\软件\SteerGearApp(20220413位置控制修改)\SteerGearApp\bin\Debug\SteerGearApp.exe
+E:\舵机项目\软件\SteerGearApp(20220413位置控制修改)\SteerGearApp\bin\Debug\SteerGearApp.pdb
+E:\舵机项目\软件\SteerGearApp(20220413位置控制修改)\SteerGearApp\bin\Debug\SunnyUI.Common.dll
+E:\舵机项目\软件\SteerGearApp(20220413位置控制修改)\SteerGearApp\bin\Debug\SunnyUI.dll
+E:\舵机项目\软件\SteerGearApp(20220413位置控制修改)\SteerGearApp\bin\Debug\SunnyUI.pdb
+E:\舵机项目\软件\SteerGearApp(20220413位置控制修改)\SteerGearApp\obj\Debug\SteerGearApp.csproj.AssemblyReference.cache
+E:\舵机项目\软件\SteerGearApp(20220413位置控制修改)\SteerGearApp\obj\Debug\SteerGearApp.csproj.SuggestedBindingRedirects.cache
+E:\舵机项目\软件\SteerGearApp(20220413位置控制修改)\SteerGearApp\obj\Debug\SteerGearApp.Mian.Views.MianView.resources
+E:\舵机项目\软件\SteerGearApp(20220413位置控制修改)\SteerGearApp\obj\Debug\SteerGearApp.Mian.Views.PortSettingFrm.resources
+E:\舵机项目\软件\SteerGearApp(20220413位置控制修改)\SteerGearApp\obj\Debug\SteerGearApp.Properties.Resources.resources
+E:\舵机项目\软件\SteerGearApp(20220413位置控制修改)\SteerGearApp\obj\Debug\SteerGearApp.csproj.GenerateResource.cache
+E:\舵机项目\软件\SteerGearApp(20220413位置控制修改)\SteerGearApp\obj\Debug\SteerGearApp.csproj.CoreCompileInputs.cache
+E:\舵机项目\软件\SteerGearApp(20220413位置控制修改)\SteerGearApp\obj\Debug\SteerGearApp.csproj.CopyComplete
+E:\舵机项目\软件\SteerGearApp(20220413位置控制修改)\SteerGearApp\obj\Debug\SteerGearApp.exe
+E:\舵机项目\软件\SteerGearApp(20220413位置控制修改)\SteerGearApp\obj\Debug\SteerGearApp.pdb
+E:\舵机项目\软件\SteerGearApp(20220415位置控制修改)\SteerGearApp\bin\Debug\SteerGearApp.exe.config
+E:\舵机项目\软件\SteerGearApp(20220415位置控制修改)\SteerGearApp\bin\Debug\SteerGearApp.exe
+E:\舵机项目\软件\SteerGearApp(20220415位置控制修改)\SteerGearApp\bin\Debug\SteerGearApp.pdb
+E:\舵机项目\软件\SteerGearApp(20220415位置控制修改)\SteerGearApp\bin\Debug\SunnyUI.Common.dll
+E:\舵机项目\软件\SteerGearApp(20220415位置控制修改)\SteerGearApp\bin\Debug\SunnyUI.dll
+E:\舵机项目\软件\SteerGearApp(20220415位置控制修改)\SteerGearApp\bin\Debug\SunnyUI.pdb
+E:\舵机项目\软件\SteerGearApp(20220415位置控制修改)\SteerGearApp\obj\Debug\SteerGearApp.csproj.AssemblyReference.cache
+E:\舵机项目\软件\SteerGearApp(20220415位置控制修改)\SteerGearApp\obj\Debug\SteerGearApp.csproj.SuggestedBindingRedirects.cache
+E:\舵机项目\软件\SteerGearApp(20220415位置控制修改)\SteerGearApp\obj\Debug\SteerGearApp.Mian.Views.MianView.resources
+E:\舵机项目\软件\SteerGearApp(20220415位置控制修改)\SteerGearApp\obj\Debug\SteerGearApp.Mian.Views.PortSettingFrm.resources
+E:\舵机项目\软件\SteerGearApp(20220415位置控制修改)\SteerGearApp\obj\Debug\SteerGearApp.Properties.Resources.resources
+E:\舵机项目\软件\SteerGearApp(20220415位置控制修改)\SteerGearApp\obj\Debug\SteerGearApp.csproj.GenerateResource.cache
+E:\舵机项目\软件\SteerGearApp(20220415位置控制修改)\SteerGearApp\obj\Debug\SteerGearApp.csproj.CoreCompileInputs.cache
+E:\舵机项目\软件\SteerGearApp(20220415位置控制修改)\SteerGearApp\obj\Debug\SteerGearApp.csproj.CopyComplete
+E:\舵机项目\软件\SteerGearApp(20220415位置控制修改)\SteerGearApp\obj\Debug\SteerGearApp.exe
+E:\舵机项目\软件\SteerGearApp(20220415位置控制修改)\SteerGearApp\obj\Debug\SteerGearApp.pdb
+E:\舵机项目\软件\SteerGearApp(20220419 PID控制)\SteerGearApp\bin\Debug\SteerGearApp.exe.config
+E:\舵机项目\软件\SteerGearApp(20220419 PID控制)\SteerGearApp\bin\Debug\SteerGearApp.exe
+E:\舵机项目\软件\SteerGearApp(20220419 PID控制)\SteerGearApp\bin\Debug\SteerGearApp.pdb
+E:\舵机项目\软件\SteerGearApp(20220419 PID控制)\SteerGearApp\bin\Debug\SunnyUI.Common.dll
+E:\舵机项目\软件\SteerGearApp(20220419 PID控制)\SteerGearApp\bin\Debug\SunnyUI.dll
+E:\舵机项目\软件\SteerGearApp(20220419 PID控制)\SteerGearApp\bin\Debug\SunnyUI.pdb
+E:\舵机项目\软件\SteerGearApp(20220419 PID控制)\SteerGearApp\obj\Debug\SteerGearApp.csproj.AssemblyReference.cache
+E:\舵机项目\软件\SteerGearApp(20220419 PID控制)\SteerGearApp\obj\Debug\SteerGearApp.csproj.SuggestedBindingRedirects.cache
+E:\舵机项目\软件\SteerGearApp(20220419 PID控制)\SteerGearApp\obj\Debug\SteerGearApp.Mian.Views.MianView.resources
+E:\舵机项目\软件\SteerGearApp(20220419 PID控制)\SteerGearApp\obj\Debug\SteerGearApp.Properties.Resources.resources
+E:\舵机项目\软件\SteerGearApp(20220419 PID控制)\SteerGearApp\obj\Debug\SteerGearApp.csproj.GenerateResource.cache
+E:\舵机项目\软件\SteerGearApp(20220419 PID控制)\SteerGearApp\obj\Debug\SteerGearApp.csproj.CoreCompileInputs.cache
+E:\舵机项目\软件\SteerGearApp(20220419 PID控制)\SteerGearApp\obj\Debug\SteerGearApp.csproj.CopyComplete
+E:\舵机项目\软件\SteerGearApp(20220419 PID控制)\SteerGearApp\obj\Debug\SteerGearApp.exe
+E:\舵机项目\软件\SteerGearApp(20220419 PID控制)\SteerGearApp\obj\Debug\SteerGearApp.pdb

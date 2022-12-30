@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<SettingModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PortName>COM3</PortName>
+  <BaudNum>921600</BaudNum>
+  <TestItem>1</TestItem>
+  <SpeedValue>184</SpeedValue>
+  <PosAngleValue>1607</PosAngleValue>
+  <NegAngleValue>1087</NegAngleValue>
+  <KPValue>1</KPValue>
+  <KIValue>1</KIValue>
+  <KDValue>1</KDValue>
+  <CustomAngleValue>0</CustomAngleValue>
+</SettingModel>
